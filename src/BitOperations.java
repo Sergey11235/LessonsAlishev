@@ -3,5 +3,6 @@ public class BitOperations {
         int i = 99;
         String binaryString = Integer.toBinaryString(i);
         System.out.println("Число " + i + " в двоичной системе счисления = " + binaryString);
+        System.out.println("Проверка: отправка коммита");
     }
 }
